@@ -4,5 +4,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00-Inbox",
   "attachmentFolderPath": "_Attachments",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "shortest",
+  "startupPage": "_Dashboard/Home"
 }
