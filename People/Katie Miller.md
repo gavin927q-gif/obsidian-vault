@@ -1,35 +1,48 @@
 ---
 type: person
-role: Realtor — WestLand Realty Group
-business: Hillsboro Home & Property Solutions
-status: active-lead
+name: Katie Miller
+company: WestLand Realty Group
+role: Realtor
+email: katie@westlandrg.com
+phone: (254) 826-8008
+business: Web Design
+lead_status: hot
+last_contact: 2026-03-31
+next_action: Send pitch PDF around May 14 before lunch
 ---
-# Katie Miller
+
+# Katie Miller — WestLand Realty Group
 
 - **Company:** WestLand Realty Group (brokered by REAL)
 - **Email:** katie@westlandrg.com
 - **Office Phone:** 254.826.8008
 - **Offices:** 101 S Main St, West, TX 76691 & 109 S Waco St., Hillsboro, TX 76645
 - **Website:** www.WestLandRG.com
-- **Area:** Hill County — Hillsboro, West, Abbott, Aquilla and surrounding areas
 - **Zillow:** https://www.zillow.com/profile/Katie-Nors-Miller/
+- **Area:** Hill County — Hillsboro, West, Abbott, Aquilla and surrounding areas
 
-## What She Does
-Realtor at WestLand Realty Group. Covers Hill County and surrounding areas — same territory as Gavin. She's the agent who first responded to Gavin's outreach and looped in Katie Smith to schedule the lunch meeting.
+## Background
+Realtor at WestLand Realty Group. Covers Hill County and surrounding areas — same territory as Gavin. She's the agent who first responded to the March 30 outreach and looped in Katie Smith to schedule the lunch.
 
-## Relationship Status
-✅ **Lunch confirmed — Tuesday May 19, 2026 at 11:30 AM, WestLand West office**
-Gavin is bringing lunch. Katie Smith will confirm headcount closer to the date.
+## Communication History
+| Date | Direction | Summary |
+|------|-----------|---------|
+| 2026-03-30 | Sent | Property services outreach — listing prep pitch |
+| 2026-03-31 | Received | Replied same night, looped in Katie Smith for scheduling |
+| 2026-03-31 | Sent | Replied — offered late afternoon same week |
+| 2026-03-31 | Received | Katie Smith replied with dates: May 19, 26, June 2 |
+| 2026-03-31 | Sent | Confirmed May 19, 11:30 AM, bringing lunch to West office |
+| 2026-03-31 | Received | Katie Smith confirmed, put on their calendar |
 
-## Email Thread
-**March 30, 2026 — Gavin's initial outreach:**
-> Hi, I'm Gavin Smith, owner of Hillsboro Home & Property Solutions — a local service company covering Hillsboro, West, Abbott, Aquilla, and surrounding Hill County areas. I help realtors get listings show-ready with a full range of property services under one roof:
-> • Curb Appeal Package – Starting at $175 • Show-Ready Package – Starting at $450 • Full Listing Prep Package – Starting at $900
-> Lawn care, pressure washing, junk removal, painting, drywall, deep cleaning, minor plumbing & electrical. Custom quotes available. Free estimates always.
+## Meeting Details
+- **Date:** Tuesday, May 19, 2026 at 11:30 AM
+- **Location:** WestLand Realty West office — 101 S Main St, West, TX 76691
+- **Bring:** Lunch for team (headcount TBD), printed proposal PDF
 
-**March 31, 2026 — Katie Miller replied:**
-> Hi Gavin, Thanks for reaching out. I've copied Katie Smith to see if you'd like to set up a Tuesday lunch with our office.
+## Follow-up Notes
+- Send web design pitch PDF around May 14
+- She's the agent relationship; Katie Smith is the marketing/scheduling decision-maker
+- Responded same night to initial outreach — highly engaged lead
 
-## Notes
-- Key contact at one of the most active realty groups in Hill County
-- She initiated the handoff to Katie Smith for scheduling — shows she's genuinely interested
+## Linked Project
+[[Projects/Web Design/WestLand-Realty]]
