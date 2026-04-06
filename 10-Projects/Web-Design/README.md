@@ -31,7 +31,7 @@ $550 build + $50/mo maintenance. Free estimates.
 ## Next Actions
 - [ ] Get Hillsboro Tire live with Namecheap domain pointed to Netlify
 - [ ] Walk in to next local business target with demo
-- [ ] Build AI Receptionist upsell into web design pitch — see [[10-Projects/AI-Receptionist/README]]
+- [ ] Build AI Receptionist upsell into web design pitch — see [[AI Receptionist Lead Gen Stack]]
 
 ## Stack
 HTML/CSS/JS · Netlify hosting · Formspree contact forms · Namecheap domains
