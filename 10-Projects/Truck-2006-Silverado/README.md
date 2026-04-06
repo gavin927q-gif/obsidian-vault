@@ -10,7 +10,7 @@ tags: [project, truck]
 - Lug nuts: 7/8" / 22mm
 
 ## To Do
-- [ ] Steering gearbox swap (pitman arm puller, 185 ft-lbs)
+- [x] Steering gearbox swap (pitman arm puller, 185 ft-lbs)
 - [ ] Monitor coolant surge tank — possible HG (DEX-COOL)
 - [ ] AC diagnosis + refrigerant
 - [ ] Cat delete / side-exit exhaust
