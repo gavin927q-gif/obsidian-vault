@@ -103,7 +103,7 @@ LIMIT 8
 ## 📅 Pinned Upcoming
 - **Apr 7, 2026** — Send 5 web design pitch emails (Herring, Cindy Cole, ORB, Swift, Jana Nors) — attach PDFs
 - **May 14, 2026** — Send WestLand Realty pitch email + PDF before lunch
-- **May 19, 2026 @ 11:30 AM** — WestLand Realty Group lunch, West TX office (Katie Miller + Katie Smith) — bring lunch for the team
+- **May 19, 2026 @ 11:30 AM** — WestLand Realty Group lunch, West TX office (Katie Miller + Katie Smith) — **Hillsboro Home & Property Solutions pitch** — bring lunch for the team
 
 ---
 

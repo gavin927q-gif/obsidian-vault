@@ -24,7 +24,7 @@ next_action: Hold pitch email until May 14 — then send PDF before lunch
 
 # WestLand Realty Group — Premium Website Upgrade
 
-Best site in the local market — but that's not the benchmark. Lunch meeting confirmed May 19, 11:30 AM, West TX office.
+Best site in the local market — but that's not the benchmark. Web design pitch PDF ready — hold email until before May 19. Note: the May 19 lunch is a Hillsboro Home & Property Solutions meeting, not web design. Use it to build the relationship, then follow up separately with the web design pitch.
 
 ## ⚠️ HOLD PITCH EMAIL — Send around May 14, not with other pitches
 

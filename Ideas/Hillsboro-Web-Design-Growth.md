@@ -11,7 +11,7 @@ tags: [web-design, growth, strategy, pricing]
 ## Current State
 - First client: Jesse Hayes / Hillsboro Tire & Service — $550, live at hillsborotireservice.com
 - 5 pitch emails ready to send (realtors + investors)
-- 1 hot lead: WestLand Realty Group — lunch meeting May 19
+- 1 hot lead: WestLand Realty Group — web design pitch PDF ready (hold until before May 19)
 - Agency site: in progress
 - Premium rebuild strategy documented ($2k–$10k)
 
