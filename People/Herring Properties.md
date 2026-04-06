@@ -1,28 +1,35 @@
 ---
 type: person
-role: Property Company
+role: Real Estate — Buyer's Agent / Listing Agent / Commercial
 business: Hillsboro Home & Property Solutions
 status: no-reply
 ---
 # Herring Properties
 
 - **Email:** info@herringproperties.com
-- **Area:** Hillsboro / Hill County (assumed)
+- **Phone:** (254) 582-0022
+- **Address:** 101 N Waco St, Hillsboro, TX 76645
+- **Hours:** 9:00 AM – 5:00 PM
+- **Chamber listing:** Hillsboro Chamber of Commerce member
+- **Area:** Hillsboro / Hill County, TX
+- **Specializes in:** Buyer's Agent, Listing Agent, Consulting, Residential and Commercial
 - **Last contacted:** March 30, 2026
 
 ## What They Do
-Property company — likely manages rental properties, commercial real estate, or land in the Hill County area. Gavin pitched property maintenance and prep services.
+Local Hillsboro real estate firm doing both residential and commercial — buyer's agent, listing agent, and consulting. Chamber of Commerce member. Strong fit for listing prep services.
 
 ## Relationship Status
-❌ No reply — outreach sent March 30, 2026. Follow-up needed.
+❌ No reply to email — outreach sent March 30, 2026.
+📞 **Call directly at (254) 582-0022 — they're right on N Waco St in Hillsboro.**
 
 ## Email Thread
 **March 30, 2026 — Gavin's outreach:**
 > Hi, My name is Gavin Smith — I own Hillsboro Home & Property Solutions, a local service company serving Hillsboro and all of Hill County. I work with realtors to get listings market-ready quickly.
 
 ## Follow-Up Draft
-> Hi, I'm Gavin Smith with Hillsboro Home & Property Solutions — I sent a note a few weeks back about local property maintenance services. I specialize in working with property managers and companies to handle maintenance, turnovers, cleanouts, lawn care, pressure washing, and repairs. If you manage properties in Hill County and need a reliable local vendor, I'd love to connect. Free estimates always. — Gavin Smith, (254) 659-0141
+> Hi, This is Gavin Smith with Hillsboro Home & Property Solutions — I sent an email a few weeks back about listing prep services. I'm right here in Hillsboro and work with realtors to get properties show-ready fast — lawn care, pressure washing, junk removal, painting, drywall, and more under one roof. Would love to stop by and introduce myself sometime. Free estimates always. — Gavin, (254) 659-0141
 
 ## Notes
-- info@ addresses often go unread — need to find a direct contact name and phone
-- Look up herringproperties.com for a direct contact name
+- They're on N Waco St — easy to stop in for a face-to-face intro
+- info@ addresses often go unread — calling is the better play here
+- Also a potential web design client — local firm with no standout web presence
