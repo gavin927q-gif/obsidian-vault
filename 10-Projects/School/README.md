@@ -24,4 +24,4 @@ tags: [project, school]
 
 ## Notes
 Prefers concise, plain-language answers. Uses Claude for homework help.
-Currently doing school internship at [[10-Projects/Internship/README|Hillsboro Tire & Service]].
+Currently doing school internship at [[Employment|Hillsboro Tire & Service]].

@@ -18,7 +18,7 @@ tags: [personal, profile]
 - [[10-Projects/HHPS/Home|Hillsboro Home & Property Solutions]] — property services
 - [[10-Projects/Web-Design/README|Web Design]] — local business sites
 - [[10-Projects/AI-Receptionist/README|AI Receptionist]] — in development
-- [[10-Projects/Internship/README|Internship]] — Hillsboro Tire & Service (school)
+- [[Employment|Internship]] — Hillsboro Tire & Service (school)
 - [[20-Areas/Inventory-Salvage/Inventory|Salvage & Resale]] — dumpster diving, scrapping, flipping
 
 ## Background

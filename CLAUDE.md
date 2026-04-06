@@ -15,7 +15,7 @@ Hillsboro Home & Property Solutions — local property services, early launch ph
 - [[10-Projects/HHPS/Home|HHPS]] — property services (primary)
 - [[10-Projects/Web-Design/README|Web Design]] — $550 builds + $50/mo maintenance, Jesse Hayes closed
 - [[10-Projects/AI-Receptionist/README|AI Receptionist]] — VAPI/Synthflow + Outscraper, in development
-- [[10-Projects/Internship/README|Internship]] — Hillsboro Tire & Service (Jesse Hayes, school)
+- [[Employment|Internship]] — Hillsboro Tire & Service (Jesse Hayes, school)
 - [[20-Areas/Inventory-Salvage/Inventory|Salvage & Resale]] — dumpster diving, scrapping, flipping
 - [[10-Projects/Dropshipping-ClearComfort/README|ClearComfort]] — archived Shopify dropshipping
 
