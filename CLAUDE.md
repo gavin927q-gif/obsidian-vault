@@ -21,7 +21,7 @@ Hillsboro Home & Property Solutions — local property services, early launch ph
 
 # Vehicles
 - 2006 Chevy Silverado 2500 Extended Cab, 6.0L V8 — [[Truck Notes]]
-- 2011 Kawasaki KLR 650 (motor swapped at home) — [[10-Projects/Motorcycle/README]]
+- 2011 Kawasaki KLR 650 (motor swapped at home) — [[2011 Kawasaki KLR 650]]
 
 ---
 

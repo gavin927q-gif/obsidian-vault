@@ -12,7 +12,7 @@ tags: [personal, profile]
 
 ## Vehicles
 - [[Truck Notes|2006 Chevy Silverado 2500]] — 6.0L V8, GMT800
-- [[10-Projects/Motorcycle/README|2011 Kawasaki KLR 650]] — motor swapped at home
+- [[2011 Kawasaki KLR 650|2011 Kawasaki KLR 650]] — motor swapped at home
 
 ## Active Income Streams
 - [[10-Projects/HHPS/Home|Hillsboro Home & Property Solutions]] — property services
