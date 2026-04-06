@@ -1,22 +1,31 @@
+# Who I Am
+Gavin Smith. High school student + entrepreneur. Based in Hillsboro, TX (Hill County). Live in a camper with Starlink internet. Ride a motorcycle. Multiple income streams running simultaneously — action-oriented, minimal back-and-forth preferred.
+
 # HHPS Business Context
+Hillsboro Home & Property Solutions — local property services, early launch phase.
+- **Thomas Smith** (father) co-signs everything until Gavin turns 18
+- Never say "plumbing/electrical" — always **"minor fixture swaps"** + licensed sub
+- Thomas must sign all contracts and be joint holder on bank account
+- $75 minimum, free estimates, senior & military discounts
+- Phone: (254) 659-0141 | Email: hillsboro.home.property@gmail.com
+- Instagram: @hillsborohomepropertysolution | Website: hillsborohomepropertysolutions.netlify.app
+- See: [[10-Projects/HHPS/Home]]
 
-Gavin Smith owns Hillsboro Home & Property Solutions (HHPS), a local property services company in Hillsboro, TX serving all of Hill County. Business is in early launch phase.
+# All Active Projects
+- [[10-Projects/HHPS/Home|HHPS]] — property services (primary)
+- [[10-Projects/Web-Design/README|Web Design]] — $550 builds + $50/mo maintenance, Jesse Hayes closed
+- [[10-Projects/AI-Receptionist/README|AI Receptionist]] — VAPI/Synthflow + Outscraper, in development
+- [[10-Projects/Internship/README|Internship]] — Hillsboro Tire & Service (Jesse Hayes, school)
+- [[20-Areas/Inventory-Salvage/Inventory|Salvage & Resale]] — dumpster diving, scrapping, flipping
+- [[10-Projects/Dropshipping-ClearComfort/README|ClearComfort]] — archived Shopify dropshipping
 
-**Key facts Claude should always know:**
-- Thomas Smith (father) is co-signer/LLC organizer until Gavin turns 18
-- Never say "plumbing/electrical" — always "minor fixture swaps" with licensed sub disclaimer
-- Thomas must sign all contracts and be on the bank account
-- $75 minimum job, free estimates, senior & military discounts
-- Contact: (254) 659-0141 | hillsboro.home.property@gmail.com
-- Instagram: @hillsborohomepropertysolution
-- Website: hillsborohomepropertysolutions.netlify.app
-
-See full project: [[10-Projects/HHPS/Home]]
+# Vehicles
+- 2006 Chevy Silverado 2500 Extended Cab, 6.0L V8 — [[10-Projects/Truck-2006-Silverado/README]]
+- 2011 Kawasaki KLR 650 (motor swapped at home) — [[10-Projects/Motorcycle/README]]
 
 ---
 
 # About Me
-Gavin. I run Hillsboro Home & Property Solutions — a home and property services business in the Hillsboro, Texas area. I also do freelance web development (static sites, Netlify hosting) and content creation (flyers, promo video, pricing sheets).
 
 # Tools
 - **Web:** HTML/CSS/JS, Netlify, Formspree
