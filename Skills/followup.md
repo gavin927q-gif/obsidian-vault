@@ -1,32 +1,37 @@
-# /followup — Follow-Up Radar Skill
+# /followup — Follow-Up Radar Command
 
 ## Trigger
 User types `/followup`
 
-## What to Do
+## What It Does (Step by Step)
+1. Search Gmail for threads where Gavin sent the last message 48+ hours ago with no reply → "I'm Waiting On"
+2. Search Gmail for threads where someone else sent the last message Gavin hasn't replied to → "Waiting On Me"
+3. Cross-reference /People/ files to identify contacts and their relationship
+4. Flag anything from contacts in /People/ as high priority
+5. Treat unknown senders asking about services as leads — surface at top
+6. Present two lists, then offer to draft replies
 
-1. Search Gmail for threads where:
-   - **Gavin sent the last message** more than 48 hours ago with no reply → "I'm Waiting On"
-   - **Someone else sent the last message** that Gavin hasn't replied to → "Waiting On Me"
-   - Pay special attention to: clients, leads, realtors, vendors, anyone in `/People/`
+## Files It Reads
+- Gmail via MCP (sent + inbox)
+- All files in /People/ (cross-reference)
+- /Projects/ files (context for ongoing deals)
 
-2. Also check `/Tasks/` for tasks with status `open` or `in-progress` that involve another person and have been sitting for 3+ days with no update
+## Files It Writes
+- None automatically — updates /People/ Communication History only after Gavin confirms
 
-3. Present two clean lists:
-
+## Output Format
 ```
 ## 📬 I'm Waiting On
-- [Person] — [Subject/context] — [Last sent X days ago]
+- [Person] — [Subject] — Sent [X] days ago
+  → Draft follow-up? (yes/no)
 
 ## 📩 Waiting On Me
-- [Person] — [Subject/context] — [Received X days ago]
+- [Person] — [Subject] — Received [X] days ago
+  → Draft reply? (yes/no)
 ```
 
-4. For each item, ask: "Want me to draft a reply or follow-up message for this one?"
-
-5. If Gavin says yes → draft a message in his voice (friendly, professional, local/personal tone) and ask for approval before sending
-
 ## Rules
-- Treat unknown Gmail senders asking about services as leads — always surface these
 - Never send a message without Gavin's explicit approval
-- Flag anything from Jesse Hayes or Lacey Whitehouse as high priority
+- Always ask "Want me to draft a reply?" for each item
+- Flag Jesse Hayes, Katie Miller, Katie Smith as high priority
+- Treat unknown service inquiries as leads — always surface these first

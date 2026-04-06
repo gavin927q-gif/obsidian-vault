@@ -1,20 +1,27 @@
-# /review — End of Day Review Skill
+# /review — End of Day Review Command
 
 ## Trigger
 User types `/review`
 
-## What to Do
+## What It Does (Step by Step)
+1. Open today's /Daily Plans/YYYY-MM-DD.md
+2. Go through each task in the plan — ask Gavin: done / not done / partial?
+3. Update task statuses in /Tasks/ based on Gavin's answers:
+   - Done → `status: done`
+   - Not done → ask: carry forward / reschedule / cancel?
+4. For anything incomplete, record the decision
+5. Append end-of-day summary to today's plan file
+6. Tell Gavin what to prioritize first tomorrow
 
-1. Open today's daily plan from `/Daily Plans/YYYY-MM-DD.md`
-2. Go through each item in the plan and ask Gavin to confirm:
-   - Did you complete this task? (yes / no / partial)
-3. Update task statuses in `/Tasks/` based on Gavin's answers:
-   - Completed → `status: done`
-   - Not done → ask: carry forward / reschedule / cancel
-4. For anything incomplete, record the decision (carry forward, new due date, or cancelled)
+## Files It Reads
+- /Daily Plans/[today].md
+- /Tasks/ (status updates)
 
-5. Append an end-of-day summary to today's plan file:
+## Files It Writes
+- Updates task files in /Tasks/ (status field)
+- Appends summary section to /Daily Plans/[today].md
 
+## Summary Format (appended to daily plan)
 ```
 ---
 ## 📋 End of Day Summary — [Date]
@@ -23,17 +30,14 @@ User types `/review`
 - [Item]
 
 ### ↩️ Carries Forward
-- [Item] → [new due date if set]
+- [Item] → new due: [date if rescheduled]
 
 ### 🗒️ Notes for Tomorrow
 - [Anything worth remembering]
 ```
 
-6. Close out by telling Gavin:
-   - What to prioritize first tomorrow morning
-   - If there's anything he should prep tonight
-
 ## Rules
 - Never mark a task done without Gavin confirming it
-- Always ask before cancelling a task — don't assume
-- Keep the summary brief — 3–5 bullets max per section
+- Never cancel a task without asking first
+- Keep summary to 3–5 bullets per section max
+- Always end with: what to prioritize first tomorrow morning
