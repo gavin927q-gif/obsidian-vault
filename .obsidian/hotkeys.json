@@ -1,0 +1,20 @@
+{
+  "daily-notes:open-daily-note": [
+    {
+      "modifiers": ["Ctrl"],
+      "key": "D"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": ["Ctrl"],
+      "key": "O"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": ["Ctrl"],
+      "key": "F"
+    }
+  ]
+}
