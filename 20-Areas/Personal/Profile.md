@@ -11,7 +11,7 @@ tags: [personal, profile]
 - **Status:** High school student + entrepreneur
 
 ## Vehicles
-- [[10-Projects/Truck-2006-Silverado/README|2006 Chevy Silverado 2500]] — 6.0L V8, GMT800
+- [[Truck Notes|2006 Chevy Silverado 2500]] — 6.0L V8, GMT800
 - [[10-Projects/Motorcycle/README|2011 Kawasaki KLR 650]] — motor swapped at home
 
 ## Active Income Streams

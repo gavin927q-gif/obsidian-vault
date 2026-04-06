@@ -20,7 +20,7 @@ Hillsboro Home & Property Solutions — local property services, early launch ph
 - [[10-Projects/Dropshipping-ClearComfort/README|ClearComfort]] — archived Shopify dropshipping
 
 # Vehicles
-- 2006 Chevy Silverado 2500 Extended Cab, 6.0L V8 — [[10-Projects/Truck-2006-Silverado/README]]
+- 2006 Chevy Silverado 2500 Extended Cab, 6.0L V8 — [[Truck Notes]]
 - 2011 Kawasaki KLR 650 (motor swapped at home) — [[10-Projects/Motorcycle/README]]
 
 ---
