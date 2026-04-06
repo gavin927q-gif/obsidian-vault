@@ -1,15 +1,7 @@
 ---
-tags: [project, hhps]
-status: active
+tags: [redirect]
 ---
 
-# Hillsboro Home & Property Solutions
-**Services:** Junk removal, cleanouts, lawn care, pressure washing, painting, drywall, flooring, plumbing, electrical, auto detailing
-**Coverage:** Hill County, TX | **Brand:** Navy + Red | Barlow Condensed
+# Redirect
 
-## Pipeline
-- [ ] Follow up with Lacey Whitehouse (Julie Siddons Realtors)
-- [ ] Pitch Bronze/Silver/Gold realtor listing prep packages
-- [ ] Solar panel cleaning upsell
-
-## Notes
+This folder is superseded. All HHPS content lives in [[10-Projects/HHPS/Home]].
