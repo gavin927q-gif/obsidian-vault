@@ -1,20 +1,7 @@
 {
-  "daily-notes:open-daily-note": [
-    {
-      "modifiers": ["Ctrl"],
-      "key": "D"
-    }
-  ],
-  "switcher:open": [
-    {
-      "modifiers": ["Ctrl"],
-      "key": "O"
-    }
-  ],
-  "global-search:open": [
-    {
-      "modifiers": ["Ctrl"],
-      "key": "F"
-    }
-  ]
+  "editor:open-search": [{ "modifiers": ["Ctrl"], "key": "F" }],
+  "switcher:open": [{ "modifiers": ["Ctrl"], "key": "O" }],
+  "command-palette:open": [{ "modifiers": ["Ctrl"], "key": "P" }],
+  "app:go-back": [{ "modifiers": ["Alt"], "key": "ArrowLeft" }],
+  "app:go-forward": [{ "modifiers": ["Alt"], "key": "ArrowRight" }]
 }

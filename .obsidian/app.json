@@ -1,14 +1,8 @@
 {
-  "promptDelete": false,
-  "trashOption": "local",
-  "useMarkdownLinks": false,
-  "newLinkFormat": "shortest",
-  "attachmentFolderPath": "Attachments",
+  "defaultViewMode": "preview",
+  "spellcheck": false,
   "newFileLocation": "folder",
-  "newFileFolderPath": "Inbox",
-  "spellcheck": true,
-  "strictLineBreaks": false,
-  "showFrontmatter": false,
-  "defaultViewMode": "source",
-  "livePreview": true
+  "newFileFolderPath": "00-Inbox",
+  "attachmentFolderPath": "_Attachments",
+  "newLinkFormat": "shortest"
 }
