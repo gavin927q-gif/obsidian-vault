@@ -1,11 +1,13 @@
 ---
 type: task
-status: open
+status: cancelled
 due: 2026-04-09
 priority: medium
 business: Hillsboro Home & Property Solutions
 assigned: Gavin
 created: 2026-04-06
+cancelled: 2026-04-06
+cancel_reason: Lead marked cold — no response, stalled
 ---
 
 # Follow up with Lacey Whitehouse — Julie Siddons Realtors

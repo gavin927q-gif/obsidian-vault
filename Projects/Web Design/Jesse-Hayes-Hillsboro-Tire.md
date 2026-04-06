@@ -41,7 +41,9 @@ First completed web design client. Site is live.
 ## Communication Log
 | Date | Method | Notes |
 |------|--------|-------|
-| 2026-04-05 | — | Site launched, domain live |
+| 2026-04-05 | — | Site launched, domain live on hillsborotireservice.com |
+| 2026-04-06 | In-person | Internship visit — check in, ask for testimonial/referral |
 
 ## Next Action
-- [ ] Task: Ask Jesse for a Google review 📅 2026-04-09
+- [ ] Collect Google review / testimonial from Jesse — in person today (2026-04-06)
+- [ ] Ask for a referral to another local business needing a website
