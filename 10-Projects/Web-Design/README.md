@@ -5,20 +5,33 @@ status: active
 
 # Web Design Business
 
-## Closed
-| Client | Amount | Status |
-|--------|--------|--------|
-| Hillsboro Tire & Service | $550 | Getting live on Namecheap/Netlify |
+## Closed Sales
+| Client | Contact | Amount | Status |
+|--------|---------|--------|--------|
+| Hillsboro Tire & Service | Jesse Hayes (owner) | $550 | Getting live — Namecheap domain + Netlify hosting |
 
-## Demo Sites (7 Built — Pitch Ready)
-- [ ] Site 1
-- [ ] Site 2
-- [ ] Site 3
-- [ ] Site 4
-- [ ] Site 5
-- [ ] Site 6
-- [ ] Site 7
+## Ongoing Maintenance
+| Client | Monthly | Notes |
+|--------|---------|-------|
+| Hillsboro Tire & Service | $50/mo | Domain + hosting + all changes |
+
+## Demo Sites — 7 Built, Pitch Ready
+- [ ] Site 1 — target:
+- [ ] Site 2 — target:
+- [ ] Site 3 — target:
+- [ ] Site 4 — target:
+- [ ] Site 5 — target:
+- [ ] Site 6 — target:
+- [ ] Site 7 — target:
+
+## Strategy
+Walk-in approach — show demo, close on the spot.
+$550 build + $50/mo maintenance. Free estimates.
 
 ## Next Actions
-- [ ] Get Hillsboro Tire live with custom domain
-- [ ] Walk in to next target
+- [ ] Get Hillsboro Tire live with Namecheap domain pointed to Netlify
+- [ ] Walk in to next local business target with demo
+- [ ] Build AI Receptionist upsell into web design pitch — see [[10-Projects/AI-Receptionist/README]]
+
+## Stack
+HTML/CSS/JS · Netlify hosting · Formspree contact forms · Namecheap domains
