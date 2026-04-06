@@ -1,33 +1,37 @@
-# /today — Daily Briefing Skill
+# /today — Morning Briefing Command
 
 ## Trigger
 User types `/today`
 
-## What to Do
-
+## What It Does (Step by Step)
 1. Check today's date
-2. Pull Google Calendar events for today via Gmail MCP integration
-3. Scan Gmail inbox:
-   - Flag unread messages from clients, leads, or known contacts
-   - Flag any message about job requests, quotes, or estimates (treat unknown senders asking about services as leads)
-   - Note anything needing a reply today
-4. Scan all files in `/Tasks/` for:
-   - Tasks with `status: open` or `status: in-progress` and `due <= today`
-   - Tasks that are overdue
-5. Review `/Inbox/` folder for any unprocessed items
-6. Check yesterday's Daily Plan (`/Daily Plans/YYYY-MM-DD.md`) for anything marked incomplete
+2. Pull Google Calendar events via MCP gcal tools
+3. Scan Gmail inbox (hillsboro.home.property@gmail.com) for:
+   - Unread messages from any contact in /People/
+   - Messages about job requests, quotes, or estimates (treat as leads)
+   - Flag anything needing a reply today
+4. Scan /Tasks/ folder for files where `status = open` or `in-progress` and `due <= today`
+5. Check /Inbox/ folder for unprocessed items
+6. Check yesterday's /Daily Plans/YYYY-MM-DD.md for anything incomplete
 
-## Output — Write to `/Daily Plans/YYYY-MM-DD.md`
+## Files It Reads
+- All files in /Tasks/ (checks due dates and status)
+- /Inbox/ (checks for unprocessed items)
+- /Daily Plans/[yesterday].md (checks carry-forward items)
+- Google Calendar via MCP
+- Gmail via MCP
 
-Use this exact structure:
+## Files It Writes
+- /Daily Plans/YYYY-MM-DD.md (creates new file for today)
 
+## Output Format
 ```
 # Daily Plan — [Day, Month DD, YYYY]
 
 ## ⚡ Big 3 Today
-1. [Most important thing]
-2. [Second most important]
-3. [Third most important]
+1.
+2.
+3.
 
 ## 📅 Calendar
 - [Time] — [Event]
@@ -36,14 +40,17 @@ Use this exact structure:
 - [Sender] — [Subject] — [Why flagged]
 
 ## ✅ Tasks Due Today
-- [ ] [Task] — [Priority] — [[Person if applicable]]
+- [ ] [Task] — [Priority] — [[Person]]
 
 ## ⚡ Quick Wins
-- [ ] [Small task that can be knocked out fast]
+- [ ] [Small open task]
 
 ## ↩️ Carry Forward
-- [Items from yesterday's plan not yet done]
+- [Items from yesterday not done]
 ```
 
-7. Update `Dashboard.md` header note with today's date
-8. Tell Gavin: "Daily plan for [date] is ready → [[Daily Plans/YYYY-MM-DD]]" followed by a 3-sentence summary of what the day looks like
+## Rules
+- Never write to /Daily Notes/
+- Always write to /Daily Plans/ with YYYY-MM-DD.md filename
+- Link people with [[double brackets]]
+- End with: tell Gavin the plan is ready + 3-sentence day summary

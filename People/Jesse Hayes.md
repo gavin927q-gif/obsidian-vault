@@ -1,16 +1,37 @@
 ---
 type: person
-role: Web Design Client
+name: Jesse Hayes
+company: Hillsboro Tire & Service
+role: Web Design Client (Closed)
+email:
+phone:
+website: hillsborotireservice.com
 business: Web Design
+lead_status: closed
+last_contact: 2026-04-05
+next_action: Ask for Google review
 ---
-# Jesse Hayes
 
-- Business: Hillsboro Tire & Service
-- Project: Website build — first web design sale ($550)
-- Status: ✅ LIVE — [hillsborotireservice.com](https://hillsborotireservice.com)
-- Deployed via: Netlify / Namecheap
-- Completed: 2026-04-05
+# Jesse Hayes — Hillsboro Tire & Service
 
-## Notes
-- First completed web design client.
-- Site is fully live with custom domain.
+- **Business:** Hillsboro Tire & Service
+- **Website:** hillsborotireservice.com ✅ Live
+- **Project:** Website build — $550
+- **Deployed via:** Netlify / Namecheap
+- **Completed:** 2026-04-05
+
+## Background
+First web design client. Full site built and deployed — live with custom domain. Use as primary portfolio piece in every pitch.
+
+## Communication History
+| Date | Direction | Summary |
+|------|-----------|---------|
+| 2026-04-05 | — | Site launched and live at hillsborotireservice.com |
+
+## Follow-up Notes
+- Ask Jesse for a Google review — not yet collected
+- Screenshot the live site for portfolio use
+- Consider asking for a referral/testimonial to use in pitches
+
+## Linked Project
+[[Projects/Web Design/Jesse-Hayes-Hillsboro-Tire]]

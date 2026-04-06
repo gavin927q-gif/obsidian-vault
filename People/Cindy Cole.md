@@ -1,38 +1,43 @@
 ---
 type: person
-role: Realtor — Independent
-business: Hillsboro Home & Property Solutions
-status: no-reply
+name: Cindy Cole
+company: Independent
+role: Realtor
+email: cindycole.realtor@gmail.com
+email_alt: colehome@me.com
+phone: (254) 901-8202
+website: cindycolerealtor.com
+business: Web Design
+lead_status: warm
+last_contact: 2026-04-07
+next_action: Call if no reply by April 12
 ---
-# Cindy Cole
 
-- **Email 1:** cindycole.realtor@gmail.com
-- **Email 2:** colehome@me.com (alternate — likely same person)
+# Cindy Cole — Realtor
+
+- **Email:** cindycole.realtor@gmail.com
+- **Alt Email:** colehome@me.com (possible alternate — use primary only)
 - **Phone:** (254) 901-8202
 - **Website:** cindycolerealtor.com
-- **HAR Profile:** har.com/cindy-cole/agent_ntreis-0727882
-- **Hillsboro Chamber:** Member
-- **Area:** Hillsboro, Waxahachie, Burleson, Midlothian, Cleburne, Waco, Alvarado — Hill County + surrounding
-- **Last contacted:** March 30, 2026
+- **HAR:** har.com/cindy-cole/agent_ntreis-0727882
+- **Chamber:** Hillsboro Chamber member
+- **Area:** Hillsboro, Waxahachie, Burleson, Midlothian, Cleburne, Waco, Alvarado
+- **Credentials:** NAR, ABR, SRS
 
-## What She Does
-Independent realtor covering Hill County and a wide swath of Central Texas. Active on HAR and has her own website. Gavin sent listing prep pitches to both of her email addresses.
+## Background
+Independent realtor covering Hill County and a wide swath of Central Texas. Currently trapped in a corporate ERA Courtyard template — her personal brand is invisible. Huge coverage area is her competitive advantage but the site doesn't show it.
 
-## Relationship Status
-❌ No reply on either email — outreach sent March 30, 2026.
-📞 **Call her directly at (254) 901-8202.**
+## Communication History
+| Date | Direction | Summary |
+|------|-----------|---------|
+| 2026-03-30 | Sent | Property services outreach to cindycole.realtor@gmail.com — no reply |
+| 2026-03-30 | Sent | Same to colehome@me.com — no reply |
+| 2026-04-07 | Sent | Web design pitch email + PDF proposal to cindycole.realtor@gmail.com |
 
-## Email Thread
-**March 30, 2026 — Gavin's outreach (cindycole.realtor@gmail.com):**
-> Hi Cindy, I'm Gavin Smith, owner of Hillsboro Home & Property Solutions — a local service company covering Hillsboro and all of Hill County. I partner with realtors to get listings show-ready fast.
-> • Curb Appeal Package – Starting at $175 • Show-Ready Package – Starting at $450 • Full Listing Prep Package – Starting at $900
+## Follow-up Notes
+- Emotional sell: "Your ERA template looks like everyone else's"
+- Call (254) 901-8202 if no reply by April 12
+- Wide area coverage = lots of listings = lots of potential prep work too
 
-**March 30, 2026 — Also sent to:** colehome@me.com
-
-## Follow-Up Draft
-> Hi Cindy, Gavin Smith here — I emailed you a few weeks ago about listing prep services. I cover all of Hill County and beyond and specialize in getting homes show-ready fast — lawn care, pressure washing, junk removal, painting, drywall, and more under one roof. If you've got a listing coming up that needs attention, I'd love to help. Free estimates. Fast turnaround. — Gavin, (254) 659-0141
-
-## Notes
-- Don't send to both emails — pick one (cindycole.realtor@gmail.com is the more professional-looking)
-- Wide service area = more listings = more potential work
-- Her own website cindycolerealtor.com is a reference — possible future web design upgrade lead
+## Linked Project
+[[Projects/Web Design/Cindy-Cole]]

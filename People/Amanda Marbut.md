@@ -1,34 +1,40 @@
 ---
 type: person
-role: Contact — ORB Investments TX
-business: Hillsboro Home & Property Solutions
-status: no-reply
+name: Amanda Marbut
+company: ORB Investments TX
+role: Commercial Real Estate Contact
+email: amanda.marbut@orbinvest.com
+phone: (254) 337-0740
+website: orbinvesttx.com
+business: Both
+lead_status: warm
+last_contact: 2026-04-07
+next_action: Call if no reply by April 12
 ---
-# Amanda Marbut
 
-- **Email:** amanda.marbut@orbinvest.com
+# Amanda Marbut — ORB Investments TX
+
+- **Email:** amanda.marbut@orbinvest.com ✅
+- **⚠️ DO NOT USE:** info@orbinvestments.com — permanently bounces
 - **Phone:** (254) 337-0740
-- **Company:** ORB Investments TX
 - **Website:** orbinvesttx.com
-- **Area:** Hillsboro, TX — Industrial/commercial along HWY 35E & 35W corridor (between DFW and Waco)
-- **Last contacted:** March 30, 2026
+- **Area:** Hillsboro, TX — IH-35 corridor between DFW and Waco
+- **Properties:** Industrial/commercial space near downtown Hillsboro on HWY 35E & 35W merge
 
-## What She Does
-Works at ORB Investments TX, a Hillsboro-based commercial real estate investment company. They own industrial/commercial space near downtown Hillsboro, strategically positioned at the HWY 35E & 35W merge between DFW and Waco. Strong fit for commercial property maintenance and ongoing service contracts.
+## Background
+Contact at ORB Investments TX, a Hillsboro-based commercial real estate investment company. They own industrial/commercial space strategically located at the IH-35 merge between DFW and Waco. Strong fit for both commercial maintenance (Hillsboro H&P) and a premium website rebuild.
 
-## Relationship Status
-❌ No reply — outreach sent March 30, 2026.
-⚠️ info@orbinvestments.com permanently bounced — dead address. Use amanda.marbut@orbinvest.com only.
-📞 **Call (254) 337-0740 directly.**
+## Communication History
+| Date | Direction | Summary |
+|------|-----------|---------|
+| 2026-03-30 | Sent | Commercial maintenance outreach to info@orbinvestments.com — bounced permanently |
+| 2026-03-30 | Sent | Same outreach to amanda.marbut@orbinvest.com — no reply |
+| 2026-04-07 | Sent | Web design pitch email + PDF proposal |
 
-## Email Thread
-**March 30, 2026 — Gavin's outreach:**
-> Hi Amanda, I'm Gavin Smith, owner of Hillsboro Home & Property Solutions — a local service company based right here in Hillsboro serving all of Hill County. I specialize in commercial property maintenance — junk removal, cleanouts, lawn care, pressure washing, painting, drywall, and general repairs. If ORB Investments has properties in the Hill County area that need ongoing maintenance or turnover work, I'd love to connect.
+## Follow-up Notes
+- Highest budget potential in current pipeline ($4k–$7k)
+- Call (254) 337-0740 if no reply by April 12
+- IH-35 location is their biggest asset — lead with that in any conversation
 
-## Follow-Up Draft
-> Hi Amanda, This is Gavin Smith — I emailed you a few weeks back about commercial property maintenance for ORB Investments. I know you have commercial space near downtown Hillsboro and along the 35 corridor — I'd love to be your go-to for maintenance, cleanouts, pressure washing, lawn care, and repairs. Local, reliable, and fast. Happy to come by and walk any of your properties anytime. — Gavin, (254) 659-0141
-
-## Notes
-- Commercial/industrial properties = big maintenance contracts, recurring work
-- They're right in Hillsboro — stop by or call directly
-- Strong IH-35 corridor location suggests active commercial tenants — lots of maintenance potential
+## Linked Project
+[[Projects/Web Design/ORB-Investments]]

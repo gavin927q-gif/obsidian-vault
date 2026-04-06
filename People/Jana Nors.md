@@ -1,38 +1,44 @@
 ---
 type: person
-role: Broker/Owner — Jana Nors Real Estate
-business: Hillsboro Home & Property Solutions
-status: no-reply
+name: Jana Nors
+company: Jana Nors Real Estate
+role: Broker/Owner
+email: JanaNorsRE@gmail.com
+email_old: jananorsrealestate@gmail.com
+phone: (254) 715-3430
+address: PO Box 93, Abbott, TX 76621
+website: jananorsrealestate.com
+business: Web Design
+lead_status: warm
+last_contact: 2026-04-07
+next_action: Call if no reply by April 12
 ---
-# Jana Nors
 
-- **Email (sent to):** jananorsrealestate@gmail.com
-- **Email (from website):** JanaNorsRE@gmail.com ⚠️ May be the correct address — worth trying
+# Jana Nors — Jana Nors Real Estate
+
+- **Email (correct):** JanaNorsRE@gmail.com
+- **⚠️ Old email used in March outreach:** jananorsrealestate@gmail.com (may be wrong)
 - **Phone:** (254) 715-3430
 - **Website:** jananorsrealestate.com
 - **Address:** PO Box 93, Abbott, TX 76621
-- **Area:** Abbott, Hillsboro, Waco & Surrounding Hill County / McLennan County / Central Texas
+- **Area:** Abbott, Hillsboro, Waco & surrounding Hill County / McLennan County / Central Texas
 - **Specializes in:** Farm, ranch, land, and residential properties
-- **Career start:** 1987 (Baylor University, Hill County native)
-- **Last contacted:** March 30, 2026
+- **Career start:** 1987 (born and raised Hill County, Baylor University)
 
-## What She Does
-Broker/Owner of Jana Nors Real Estate — born and raised in Hill County, 30+ year career. Specializes in farm, ranch, and land deals across Hill and McLennan County. Also does residential. Deep local roots — the kind of person who knows everyone in the county.
+## Background
+Broker/Owner of Jana Nors Real Estate — deep Hill County roots, 30+ year career. Specializes in farm, ranch, and land across Hill and McLennan County. If she likes you, she'll refer you everywhere — she knows everyone in the county.
 
-## Relationship Status
-❌ No reply — outreach sent March 30, 2026 to jananorsrealestate@gmail.com.
-⚠️ Website lists JanaNorsRE@gmail.com as her contact — the address Gavin used may be wrong.
-📞 **Call (254) 715-3430 — strong candidate for a phone intro.**
+## Communication History
+| Date | Direction | Summary |
+|------|-----------|---------|
+| 2026-03-30 | Sent | Property services outreach to jananorsrealestate@gmail.com — no reply (possibly wrong address) |
+| 2026-04-07 | Sent | Web design pitch email + PDF to JanaNorsRE@gmail.com |
 
-## Email Thread
-**March 30, 2026 — Gavin's outreach:**
-> Hi Jana, I'm Gavin Smith, owner of Hillsboro Home & Property Solutions. I'm a local, one-stop property service company covering Hillsboro and Hill County. I partner with realtors to handle everything needed to get a listing show-ready — lawn care, pressure washing, junk removal, painting, drywall, deep cleaning, and minor plumbing & electrical.
+## Follow-up Notes
+- Possible wrong email used in March — JanaNorsRE@gmail.com is from her website
+- Farm/ranch listings = big property prep jobs + premium web pages
+- Possible family connection to Katie Nors-Miller at WestLand Realty — same last name
+- Call (254) 715-3430 if no email reply by April 12
 
-## Follow-Up Draft
-> Hi Jana, This is Gavin Smith with Hillsboro Home & Property Solutions — I sent an email a few weeks back that may have gone to the wrong address. I'm a local property services company covering Hill County and wanted to connect about listing prep. With the farm and ranch properties you work with, I can help with land clearing, junk removal, pressure washing, and full property prep before a sale. Free estimates, fast turnaround. — Gavin, (254) 659-0141
-
-## Notes
-- ⚠️ Possible wrong email used — try JanaNorsRE@gmail.com or call (254) 715-3430
-- Farm/ranch listings = big cleanout and property prep jobs — great fit
-- She's a native Hill County broker — if she likes you, she'll refer you everywhere
-- Possible connection to Katie Nors-Miller (WestLand Realty) — same last name, may be related
+## Linked Project
+[[Projects/Web Design/Jana-Nors]]
