@@ -1,28 +1,37 @@
+---
+date: {{date:YYYY-MM-DD}}
+client:
+service:
+address:
+amount:
+paid: false
+employees:
+hours:
+tags: [job]
+---
+
 # Job — {{title}}
 
-**Date:** {{date:YYYY-MM-DD}}
-**Client:**
-**Status:** Scheduled / In Progress / Complete / Invoiced / Paid
+## Pre-Job
+- [ ] Estimate confirmed
+- [ ] Address verified
+- [ ] Tools/equipment loaded
+- [ ] Employee(s) notified
 
----
+## On-Site
+- [ ] Before photos taken
+- [ ] Work completed per scope
+- [ ] After photos taken
+- [ ] Customer walkthrough done
 
-## Job Details
-- **Address:**
-- **Service:**
-- **Quoted price:** $
-- **Final price:** $
-
----
-
-## Tasks
-- [ ] Quote sent
-- [ ] Client confirmed
-- [ ] Job completed
+## Post-Job
 - [ ] Invoice sent
-- [ ] Payment received
+- [ ] Payment collected
+- [ ] Job logged in [[10-Projects/HHPS/Job-Log]]
+- [ ] Ask for Google review
+- [ ] Update [[20-Areas/Clients/HHPS-Clients-Overview]]
 
 ---
 
-## Notes / Photos
--
+## Notes
 

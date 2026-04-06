@@ -1,31 +1,24 @@
-# {{title}} — Client
-
-**Status:** Active
-**Since:** {{date:YYYY-MM-DD}}
-
+---
+name:
+type: residential | commercial | realtor
+phone:
+email:
+address:
+first-job-date:
+recurring: false
+tags: [client]
 ---
 
-## Contact
-- **Name:**
+# {{name}} — Client
+
+## Contact Info
 - **Phone:**
 - **Email:**
 - **Address:**
 
----
-
-## Services / Work
-| Service | Rate | Frequency |
-|---------|------|-----------|
-| — | — | — |
-
----
-
 ## Job History
-| Date | Job | Paid |
-|------|-----|------|
-| — | — | — |
-
----
+| Date | Service | Amount | Notes |
+|------|---------|--------|-------|
 
 ## Notes
 

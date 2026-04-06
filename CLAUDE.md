@@ -1,3 +1,20 @@
+# HHPS Business Context
+
+Gavin Smith owns Hillsboro Home & Property Solutions (HHPS), a local property services company in Hillsboro, TX serving all of Hill County. Business is in early launch phase.
+
+**Key facts Claude should always know:**
+- Thomas Smith (father) is co-signer/LLC organizer until Gavin turns 18
+- Never say "plumbing/electrical" — always "minor fixture swaps" with licensed sub disclaimer
+- Thomas must sign all contracts and be on the bank account
+- $75 minimum job, free estimates, senior & military discounts
+- Contact: (254) 659-0141 | hillsboro.home.property@gmail.com
+- Instagram: @hillsborohomepropertysolution
+- Website: hillsborohomepropertysolutions.netlify.app
+
+See full project: [[10-Projects/HHPS/Home]]
+
+---
+
 # About Me
 Gavin. I run Hillsboro Home & Property Solutions — a home and property services business in the Hillsboro, Texas area. I also do freelance web development (static sites, Netlify hosting) and content creation (flyers, promo video, pricing sheets).
 
