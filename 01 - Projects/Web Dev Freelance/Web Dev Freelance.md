@@ -15,7 +15,7 @@
 ## Leads / Prospects
 | Name | Contact | Status | Notes |
 |------|---------|--------|-------|
-| — | — | — | — |
+| R&R Fitness / Rhett & Kim Reddell | (254) 582-7717 | 🟡 Pitching Apr 7 | [[R&R Fitness Website Pitch]] — demo built, invoice ready |
 
 ---
 
