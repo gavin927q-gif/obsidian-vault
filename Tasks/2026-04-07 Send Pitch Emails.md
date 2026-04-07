@@ -1,6 +1,6 @@
 ---
 type: task
-status: open
+status: done
 due: 2026-04-07
 priority: high
 business: Web Design
