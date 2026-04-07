@@ -3,7 +3,7 @@ type: project
 status: pitching
 client: Herring Properties
 business_name: Herring Properties
-contact_email: info@herringproperties.com
+contact_email: info@herringproperties.com  ⚠ BOUNCED — address does not exist
 contact_phone: (254) 582-0022
 contact_address: 101 N Waco St, Hillsboro, TX 76645
 tier: Business Pro
@@ -17,7 +17,7 @@ business: Web Design
 created: 2026-04-06
 last_contact: 2026-04-07
 lead_status: warm
-next_action: Await reply to pitch email / walk in
+next_action: CALL (254) 582-0022 or walk in — email bounced permanently
 ---
 
 # Herring Properties — Website Rebuild
@@ -47,7 +47,8 @@ Local Hillsboro real estate firm. Currently on Wix — zero differentiation. Eas
 | Date | Method | Notes |
 |------|--------|-------|
 | 2026-03-30 | Email | Initial property services outreach (Hillsboro H&P) — no reply |
-| 2026-04-07 | Email | Web design pitch email sent with PDF proposal |
+| 2026-04-07 | Email | Pitch email sent from hillsborowebdesign@outlook.com — BOUNCED. info@herringproperties.com does not exist (554 RecipientNotFound). |
 
 ## Next Action
-- [ ] Task: Follow up if no reply by 📅 2026-04-12
+- [ ] Call (254) 582-0022 — email is dead, must call or walk in
+- [ ] Walk in: 101 N Waco St, Hillsboro — hours 9 AM–5 PM
