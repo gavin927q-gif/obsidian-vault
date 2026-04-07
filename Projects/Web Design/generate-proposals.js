@@ -21,7 +21,7 @@ const PROOF_BG   = '#F9F9F9';
 const GAVIN = {
   company : 'Gavin Smith — Web Design Services',
   phone   : '(254) 659-0141',
-  email   : 'hillsboro.home.property@gmail.com',
+  email   : 'hillsborowebdesign@outlook.com',
   portfolio: 'hillsborotireservice.com',
 };
 
@@ -191,7 +191,7 @@ function sectionHeader(doc, label, color, y, PAD, W) {
   doc.rect(PAD, y, 4, 16).fill(color);
   doc.fillColor(TEXT_DARK).font('Helvetica-Bold').fontSize(11)
      .text(label, PAD + 10, y + 2, { width: W - PAD * 2 - 10 });
-  return y + 22;
+  return y + 17;
 }
 
 // ─── DRAW ONE PROPOSAL ────────────────────────────────────────────────────────
@@ -250,7 +250,7 @@ async function drawProposal(proposal) {
        .text(line, PAD + ITEM_PAD + bulletIndent, by, { width: bulletTextW, lineGap: 1 });
     by += lineHeights[i];
   });
-  y += probBoxH + 12;
+  y += probBoxH + 8;
 
   // ── 3. WHAT WE BUILD ────────────────────────────────────────────────────────
   y = sectionHeader(doc, 'WHAT WE BUILD', BLUE, y, PAD, W);
@@ -289,7 +289,7 @@ async function drawProposal(proposal) {
          .strokeColor('#D8E8F8').lineWidth(0.5).stroke();
     }
   });
-  y += buildBoxH + 12;
+  y += buildBoxH + 8;
 
   // ── 4. WHY IT MATTERS ───────────────────────────────────────────────────────
   y = sectionHeader(doc, 'WHY IT MATTERS', GREEN, y, PAD, W);
@@ -303,10 +303,54 @@ async function drawProposal(proposal) {
   doc.fillColor(GREEN).font('Helvetica-Bold').fontSize(22).text('\u201C', PAD + ITEM_PAD, y + 2);
   doc.fillColor(TEXT_DARK).font('Helvetica-Oblique').fontSize(9.5)
      .text(proposal.why, PAD + ITEM_PAD + quoteIndent, y + ITEM_PAD + 4, { width: quoteW, lineGap: 2 });
-  y += whyBoxH + 12;
+  y += whyBoxH + 8;
 
-  // ── 5. PROOF BAR ────────────────────────────────────────────────────────────
-  const proofH = 32;
+  // ── 5. MONTHLY MAINTENANCE PLAN ─────────────────────────────────────────────
+  const MAINT_COLOR = '#7B2FBE';
+  const MAINT_BG    = '#F8F0FF';
+  const MAINT_PAD   = 6;
+  const maintItems  = [
+    'Hosting & deployment included (Netlify)',
+    'Unlimited minor text & image updates',
+    'Monthly performance & uptime monitoring',
+    'Priority email & phone support',
+  ];
+  const badgeMW    = 120, badgeMH = 44;
+  const maintTextW = IW - MAINT_PAD * 2 - badgeMW - 16;
+  const maintLineHs = maintItems.map(line =>
+    measureText(doc, line, 'Helvetica', 8.5, maintTextW) + 4
+  );
+  const maintBoxH = Math.max(
+    maintLineHs.reduce((a, b) => a + b, 0) + MAINT_PAD * 2,
+    44
+  );
+
+  y = sectionHeader(doc, 'MONTHLY MAINTENANCE PLAN', MAINT_COLOR, y, PAD, W);
+  doc.rect(PAD, y, IW, maintBoxH).fill(MAINT_BG).strokeColor(DIV_GRAY).lineWidth(0.5).stroke();
+
+  // Price badge on the right
+  const badgeMX = PAD + IW - badgeMW - MAINT_PAD;
+  const badgeMY = y + (maintBoxH - badgeMH) / 2;
+  doc.rect(badgeMX, badgeMY, badgeMW, badgeMH).fill(MAINT_COLOR);
+  doc.fillColor(WHITE).font('Helvetica').fontSize(7)
+     .text('MONTHLY PLAN', badgeMX, badgeMY + 6, { width: badgeMW, align: 'center', characterSpacing: 1 });
+  doc.font('Helvetica-Bold').fontSize(20)
+     .text('$150', badgeMX, badgeMY + 16, { width: badgeMW, align: 'center' });
+  doc.font('Helvetica').fontSize(7.5)
+     .text('/ month', badgeMX, badgeMY + 34, { width: badgeMW, align: 'center' });
+
+  // Bullet list on the left
+  let my = y + MAINT_PAD;
+  maintItems.forEach((line, i) => {
+    doc.fillColor(MAINT_COLOR).font('Helvetica-Bold').fontSize(11).text('›', PAD + MAINT_PAD, my - 1);
+    doc.fillColor(TEXT_DARK).font('Helvetica').fontSize(8.5)
+       .text(line, PAD + MAINT_PAD + 14, my, { width: maintTextW, lineGap: 0 });
+    my += maintLineHs[i];
+  });
+  y += maintBoxH + 8;
+
+  // ── 6. PROOF BAR ────────────────────────────────────────────────────────────
+  const proofH = 24;
   doc.rect(PAD, y, IW, proofH).fill(PROOF_BG).strokeColor(DIV_GRAY).lineWidth(0.5).stroke();
   doc.fillColor(MID_GRAY).font('Helvetica-Bold').fontSize(7.5)
      .text('RECENT WORK', PAD + ITEM_PAD, y + 7, { characterSpacing: 1 });
@@ -315,7 +359,7 @@ async function drawProposal(proposal) {
        'hillsborotireservice.com  —  Hillsboro Tire & Service  |  Full build, custom domain, Netlify deployment',
        PAD + ITEM_PAD, y + 19, { width: IW - ITEM_PAD * 2 }
      );
-  y += proofH + 6;
+  y += proofH + 4;
 
   // ── 6. FOOTER ───────────────────────────────────────────────────────────────
   // Always pin footer to bottom of page
