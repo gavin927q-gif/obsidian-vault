@@ -30,8 +30,8 @@
 ## Pricing Structure
 | Service | Price |
 |---------|-------|
-| Basic site build | — |
-| Monthly maintenance | $50/mo |
+| Full custom site build | $1,800 – $2,000 |
+| Monthly maintenance | $50–$75/mo (no contract, 30 days notice) |
 | Flyers / graphics | — |
 | Video content | — |
 
